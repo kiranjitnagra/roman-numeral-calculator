@@ -2,7 +2,8 @@
 
 A Roman Numeral Calculator using Android Studio App
 
-Overview
+## Overview 
+<img src="https://github.com/kiranjitnagra/roman-numeral-calculator/blob/main/demo.gif" width="336" height="646" />
 
 Features
 - iOS inspired design 
